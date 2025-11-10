@@ -1,3 +1,0 @@
-# Propósito del sistema
-
-Asignación y administración de las **cuentas de directorio activo** así como los **servicios** que la DTI ofrece a las áreas y usuarios como cuentas MSEV de Microsoft 365 personales, de Programa o área y de Platel Educativo, Telefonía IP, Nip de impresión, Internet extendido, recursos compartidos, administración de micrositios, accesos a bases de datos, y los servicios que en futuro se puedan ofrecer. 

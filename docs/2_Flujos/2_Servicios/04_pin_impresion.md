@@ -1,1 +1,0 @@
-# PIN de Impresión
