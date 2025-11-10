@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkgecuis=globalThis.webpackChunkgecuis||[]).push([[858],{4591:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/gecuis-docs/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

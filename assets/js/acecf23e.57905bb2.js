@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkgecuis=globalThis.webpackChunkgecuis||[]).push([[1903],{1912:s=>{s.exports=JSON.parse('{"blogBasePath":"/gecuis-docs/blog","blogTitle":"Blog","authorsListPath":"/gecuis-docs/blog/authors"}')}}]);
